@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+.venv/
+
+# Large datasets
+dataset/
+data/train/
+data/validation/
+data/test/
+data/raw/
+data/images/
+*.zip
+*.rar
+*.7z
+
+# Saved models
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Logs
+logs/
+runs/
